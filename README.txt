@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/uzr/pen/KvvWVM.
+Local Weather App inspired by Free Code Camp's "Show the Local Weather" project. Coded on codepen, link: https://codepen.io/uzr/full/KvvWVM/
 
  
