@@ -1,0 +1,13 @@
+
+body{
+  background-size:cover;
+  
+}
+.title{
+  background-color: white;
+  width: 500px;
+  margin:auto;
+  border-style:groove;
+  border-color:black;
+  opacity:0.9;
+}

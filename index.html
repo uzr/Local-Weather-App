@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Local Weather</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <div class="container-fluid">
+  <div class="title">
+    <h1 class="text-center"><b> LOCAL WEATHER APP</b> </h1>
+  </div>
+  <br><br>
+  
+  <div class="text-center">
+    <button class="btn btn-info" id="toggle" data-toggle="tooltip" title="Toggle between Celsius and Fahrenheit">
+      <li class="btn"><h2 id ="temp"></h2></li>
+      <li class="btn" id ="icon"></li>
+    </button> <br><br>
+    
+    <ul class="list-unstyled">
+      <li class="btn btn-success" id="btnCity"><h5 id="city"></h5></li>
+      <li class="btn btn-success"><h5 id ="description"></h5></li>   
+    </ul> 
+  </div>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>
