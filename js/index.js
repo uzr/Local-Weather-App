@@ -38,7 +38,7 @@ $(document).ready(function(){
         $("body").css("background-image","url(http://wallpapercave.com/wp/SwiWBWn.jpg)");
       }else if (description == "Clouds"){ //clouds 
         $("body").css("background-image","url(http://clipart-library.com/images/6cp5Eq59i.jpg)");
-      }else if (description == "Rain"){ //rain
+      }else if (description == "Rain" || description == "Drizzle"){ //rain
         $("body").css("background-image","url(https://i.ytimg.com/vi/lOt_3tg83Ls/maxresdefault.jpg)");
       }else if (description == "Mist"){ //mist
         $("body").css("background-image","url(https://static.pexels.com/photos/5230/road-fog-foggy-mist.jpg)");
